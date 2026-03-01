@@ -2,67 +2,43 @@
 
 # Israk Kayum Chowdhury
 
-**Computer Science Student · Full-Stack Developer · Research Enthusiast · Competitive Programmer**
+**CS Undergraduate · Full-Stack Engineer · AI Reliability Research · Competitive Programmer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-israk--portfolio.netlify.app-0A66C2?style=flat-square&logo=netlify&logoColor=white)](https://israk-portfolio.netlify.app/)
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1eF285DCvLkPFV1eIrL_RQkjk1yXtjZqW/view)
-[![Email](https://img.shields.io/badge/Email-israk.kayum@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:israk.kayum@gmail.com)
+[![Email](https://img.shields.io/badge/israk.kayum@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:israk.kayum@gmail.com)
 
 </div>
 
 ---
 
-I am a Computer Science undergraduate based in Bangladesh, focused on building reliable, high-impact software systems and conducting research at the intersection of AI reliability and privacy engineering. I work across the full stack — from architecting React-based frontends to designing Node.js backends — while pursuing research on the trustworthiness of large language models. I am actively seeking internships, research collaborations, and software engineering opportunities where I can contribute meaningfully and grow under strong technical mentorship.
+I build production-grade full-stack systems and conduct undergraduate research on the reliability of large language models. My engineering work spans the MERN stack; my research asks a harder question — how do we know when to trust AI-generated content? I approach both with the same standard: rigorous, well-reasoned, and built to hold up under scrutiny. Based in Bangladesh. Open to research collaborations, software engineering internships, and graduate study opportunities.
 
 ---
 
-## About Me
-
-- Undergraduate researcher investigating **LLM hallucination detection** using Small Language Models
-- Full-stack developer with production experience in the **MERN stack**
-- Competitive programmer with a strong foundation in **Data Structures & Algorithms**
-- Building privacy-first applications that address real-world ethical and social challenges
-- Interested in **AI/ML**, **privacy engineering**, and **distributed systems**
-- Open to collaboration on research projects, open-source work, and engineering internships
-
----
-
-## Research & Projects
+## Research & Engineering
 
 ### Undergraduate Thesis — LLM Hallucination Detection & Mitigation
-> *AI Reliability · Small Language Models · Trust Calibration*
+> *AI Reliability · Small Language Models · Trust Calibration · Verifiable Generation*
 
-Designing a framework that uses Small Language Models (SLMs) to detect and mitigate hallucinations in outputs produced by large language models. The research targets trust calibration, factual verification, and output reliability — addressing one of the most critical open problems in deploying AI systems responsibly. This work draws on recent literature in model uncertainty, grounding techniques, and verifiable generation.
-
----
-
-### Digital Privacy Protection App (DPPA)
-> *Privacy Engineering · Consent Management · User Safety*
-
-Designing and developing a privacy-focused application to protect individuals from unauthorized digital exposure. DPPA integrates consent management workflows, privacy enforcement mechanisms, and a user-centric safety model. The project reflects a commitment to software that carries social responsibility — combining engineering precision with ethical design.
+Large language models fail silently — producing confident, plausible, and factually wrong outputs. My thesis proposes a framework that employs Small Language Models (SLMs) as lightweight verifiers to detect and mitigate these hallucinations post-generation. The work addresses trust calibration, uncertainty estimation, and the conditions under which model outputs can be considered reliable. It draws on recent literature in grounding techniques, retrieval-augmented generation, and output verification, with the goal of making AI systems safer to deploy in high-stakes settings.
 
 ---
 
-## What I'm Working On
+### Digital Privacy Protection App — DPPA
+> *Privacy Engineering · Consent Architecture · User Safety*
 
-- Advancing the hallucination mitigation pipeline for my undergraduate thesis
-- Building out the consent and enforcement layer of DPPA
-- Deepening expertise in machine learning fundamentals and applied NLP
-- Solving algorithmic problems regularly to sharpen competitive programming skills
+A privacy-first application designed to protect individuals from unauthorized digital exposure. DPPA implements structured consent management, granular privacy enforcement, and user-controlled data governance. The project treats privacy not as a compliance checkbox but as a core system property — software engineering applied to a concrete social problem.
 
 ---
 
-## Learning & Interests
+## Current Focus
 
-- Machine Learning & Natural Language Processing
-- AI safety, model interpretability, and responsible AI deployment
-- Privacy-preserving systems and digital rights
-- Advanced algorithms and system design
-- Research methodology and academic writing
+Developing the SLM-based verification pipeline for my thesis, implementing the consent enforcement layer in DPPA, and building deeper fluency in applied machine learning and NLP.
 
 ---
 
-## Tech Stack
+## Technical Skills
 
 **Languages**
 
@@ -73,18 +49,15 @@ Designing and developing a privacy-focused application to protect individuals fr
 
 **Frontend**
 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-**Backend**
+**Backend & Databases**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-**Databases**
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -99,7 +72,7 @@ Designing and developing a privacy-focused application to protect individuals fr
 
 ## Competitive Programming
 
-I practice regularly on competitive programming platforms, focusing on algorithmic problem-solving, mathematical reasoning, and optimization under constraints.
+Consistent practice in algorithmic problem-solving, combinatorics, graph theory, and optimization. Competitive programming is applied rigor — the discipline of writing correct, efficient solutions under constraint.
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-israkkayum-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/israkkayum)
 [![LeetCode](https://img.shields.io/badge/LeetCode-user1882cg-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/user1882cg)
@@ -108,7 +81,7 @@ I practice regularly on competitive programming platforms, focusing on algorithm
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
@@ -141,5 +114,5 @@ I practice regularly on competitive programming platforms, focusing on algorithm
 ---
 
 <div align="center">
-<sub>Bangladesh · Open to internships, research roles, and engineering opportunities</sub>
+<sub>Bangladesh · Available for internships, research roles, and graduate study · 2025</sub>
 </div>
