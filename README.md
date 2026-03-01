@@ -27,8 +27,6 @@
 
 ## Who I Am
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 I am a Computer Science undergraduate based in Bangladesh, working at the intersection of **software engineering** and **AI reliability research**. I build production-grade web systems and ask hard questions about when — and whether — we should trust the outputs of language models.
 
 My engineering work spans the full MERN stack. My research is focused on a problem with direct safety implications: LLMs generate confident, fluent, and sometimes factually incorrect outputs. I am designing a framework to detect and mitigate these failures before they reach end users.
@@ -36,8 +34,6 @@ My engineering work spans the full MERN stack. My research is focused on a probl
 Both efforts share the same standard: systems should be **correct, robust, and accountable** — not merely functional.
 
 I write openly, collaborate across disciplines, and actively seek environments where rigor is expected. I am looking for internships, research collaborations, and graduate programs that match that ambition.
-
-<br clear="right"/>
 
 ---
 
@@ -177,20 +173,20 @@ Algorithmic problem-solving is where I sharpen engineering judgment — practici
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=israkkayum&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=5dade2&icon_color=c0392b&text_color=c9d1d9&border_radius=8" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israkkayum&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=5dade2&text_color=c9d1d9&border_radius=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=israkkayum&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israkkayum&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&border_radius=10" />
 
 </div>
 
 <div align="center">
 
-<img width="72%" src="https://github-readme-streak-stats.herokuapp.com?user=israkkayum&hide_border=true&background=0d1117&ring=5dade2&fire=c0392b&currStreakLabel=5dade2&sideLabels=c9d1d9&dates=c9d1d9&border_radius=8" />
+<img width="72%" src="https://github-readme-streak-stats.herokuapp.com?user=israkkayum&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=israkkayum&bg_color=0d1117&color=5dade2&line=1a5276&point=c0392b&area=true&area_color=0a3d62&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=israkkayum&theme=tokyo-night&hide_border=true&radius=8" />
 
 </div>
 
