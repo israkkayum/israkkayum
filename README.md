@@ -1,53 +1,70 @@
+<!-- ═══════════════════════════════════════════ HEADER ══ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,30:0d2137,70:0a3d62,100:1a5276&height=220&section=header&text=Israk%20Kayum%20Chowdhury&fontSize=44&fontColor=e8f4fd&fontAlignY=40&fontAlign=50&desc=Computer%20Science%20Undergraduate%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20AI%20Reliability%20Researcher&descAlignY=60&descSize=14&descAlign=50&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,25:0a0f2e,60:0d3460,100:1a6090&height=240&section=header&text=Israk%20Kayum%20Chowdhury&fontSize=46&fontColor=e8f4fd&fontAlignY=42&fontAlign=50&desc=Computer%20Science%20Undergraduate%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20AI%20Reliability%20Researcher&descAlignY=60&descSize=15&descAlign=50&animation=fadeIn&stroke=2e86c1&strokeWidth=0" />
 
 </div>
 
+<!-- ═══════════════════════════════════════════ NAV BADGES ══ -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-israk--portfolio.netlify.app-0a3d62?style=for-the-badge&logo=netlify&logoColor=white)](https://israk-portfolio.netlify.app/)&nbsp;
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-c0392b?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1eF285DCvLkPFV1eIrL_RQkjk1yXtjZqW/view)&nbsp;
-[![Email](https://img.shields.io/badge/Email-israk.kayum%40gmail.com-1a5276?style=for-the-badge&logo=gmail&logoColor=white)](mailto:israk.kayum@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-israkkayum-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/israkkayum)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=5dade2&center=true&vCenter=true&width=750&lines=Designing+reliable+software+systems+from+frontend+to+backend;Researching+verification+and+trust+in+large+language+models;Building+privacy-first+applications+with+real-world+impact;Open+to+global+internships%2C+research+roles%2C+and+graduate+study)](https://git.io/typing-svg)
+[![Portfolio](https://img.shields.io/badge/◈%20Portfolio-israk--portfolio.netlify.app-1a6090?style=for-the-badge&logo=netlify&logoColor=white)](https://israk-portfolio.netlify.app/)&nbsp;
+[![Resume](https://img.shields.io/badge/◈%20Resume-View%20PDF-a93226?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1eF285DCvLkPFV1eIrL_RQkjk1yXtjZqW/view)&nbsp;
+[![Email](https://img.shields.io/badge/◈%20Email-israk.kayum@gmail.com-1a5276?style=for-the-badge&logo=gmail&logoColor=white)](mailto:israk.kayum@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/◈%20LinkedIn-israkkayum-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/israkkayum)
 
 </div>
 
 <br/>
 
----
+<!-- ═══════════════════════════════════════════ TYPING ══ -->
+<div align="center">
 
-## Who I Am
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1400&color=5DADE2&center=true&vCenter=true&multiline=false&width=780&lines=Designing+reliable+software+systems+%E2%80%94+frontend+to+backend;Researching+verification+%26+trust+in+large+language+models;Building+privacy-first+applications+with+social+impact;Open+to+global+internships%2C+research+roles+%26+graduate+study)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════ PROFILE VIEWS ══ -->
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=israkkayum&style=flat-square&color=1a6090&label=PROFILE+VIEWS)
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════ WHO I AM ══ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d3460,100:1a6090&height=3&section=header" width="100%"/>
+
+## &nbsp;Who I Am
 
 I am a Computer Science undergraduate based in Bangladesh, working at the intersection of **software engineering** and **AI reliability research**. I build production-grade web systems and ask hard questions about when — and whether — we should trust the outputs of language models.
 
-My engineering work spans the full MERN stack. My research is focused on a problem with direct safety implications: LLMs generate confident, fluent, and sometimes factually incorrect outputs. I am designing a framework to detect and mitigate these failures before they reach end users.
+My engineering work spans the full MERN stack. My research addresses a problem with direct safety implications: LLMs generate confident, fluent, and sometimes factually incorrect outputs. I am designing a framework to detect and mitigate these failures before they reach end users.
 
-Both efforts share the same standard: systems should be **correct, robust, and accountable** — not merely functional.
+Both efforts share the same standard — systems should be **correct, robust, and accountable**, not merely functional.
 
 I write openly, collaborate across disciplines, and actively seek environments where rigor is expected. I am looking for internships, research collaborations, and graduate programs that match that ambition.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a6090,100:0d3460&height=3&section=header" width="100%"/>
 
-## Core Domains
+<br/>
+
+<!-- ════════════════════════════════════════ CORE DOMAINS ══ -->
+
+## &nbsp;Core Domains
 
 <div align="center">
 
 <table>
 <thead>
 <tr>
-<th>AI Reliability</th>
-<th>Privacy Engineering</th>
-<th>Full-Stack Systems</th>
-<th>Algorithmic Reasoning</th>
+<th align="center">🔬 AI Reliability</th>
+<th align="center">🛡️ Privacy Engineering</th>
+<th align="center">⚙️ Full-Stack Systems</th>
+<th align="center">🧮 Algorithmic Reasoning</th>
 </tr>
 </thead>
 <tbody>
@@ -62,59 +79,63 @@ I write openly, collaborate across disciplines, and actively seek environments w
 
 </div>
 
----
+<br/>
 
-## Research & Engineering
+<!-- ════════════════════════════════════════ RESEARCH ══ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d3460,100:1a6090&height=3&section=header" width="100%"/>
 
-### Undergraduate Thesis — LLM Hallucination Detection & Mitigation
+## &nbsp;Research & Engineering
 
-<div>
+### &nbsp;◈ Undergraduate Thesis — LLM Hallucination Detection & Mitigation
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-2ecc71?style=flat-square)&nbsp;
-![Domain](https://img.shields.io/badge/Domain-AI%20Reliability-c0392b?style=flat-square)&nbsp;
-![Method](https://img.shields.io/badge/Approach-SLM%20Verification-1a5276?style=flat-square)&nbsp;
-![Theme](https://img.shields.io/badge/Goal-Trustworthy%20AI-8e44ad?style=flat-square)
+![Status](https://img.shields.io/badge/Status-In%20Progress-27ae60?style=flat-square)&nbsp;
+![Domain](https://img.shields.io/badge/Domain-AI%20Reliability-a93226?style=flat-square)&nbsp;
+![Approach](https://img.shields.io/badge/Approach-SLM%20Verification-1a5276?style=flat-square)&nbsp;
+![Goal](https://img.shields.io/badge/Goal-Trustworthy%20AI-6c3483?style=flat-square)
 
-</div>
+Large language models can produce fluent, confident, and factually incorrect outputs — a failure mode with serious consequences in high-stakes deployment. My thesis proposes a post-generation verification pipeline in which Small Language Models (SLMs) act as lightweight auditors, evaluating the factual reliability of LLM outputs before they surface to users.
 
-Large language models can produce fluent, confident, and factually incorrect outputs — a failure mode with serious consequences when these systems are deployed in high-stakes contexts. My thesis proposes a post-generation verification pipeline in which Small Language Models (SLMs) act as lightweight auditors, evaluating the factual reliability of LLM outputs before they are surfaced to users.
+The framework addresses three interconnected challenges: **uncertainty estimation**, **output grounding against structured knowledge**, and **verifiable generation**. The objective is not to eliminate LLMs from the pipeline, but to make their outputs inspectable, interpretable, and calibrated for trust.
 
-The framework addresses three interconnected challenges: **uncertainty estimation**, **output grounding against structured knowledge**, and **verifiable generation**. The broader objective is not to eliminate LLMs from the pipeline, but to make their outputs inspectable, interpretable, and calibrated for trust.
+<br/>
 
----
-
-### Digital Privacy Protection App (DPPA)
-
-<div>
+### &nbsp;◈ Digital Privacy Protection App (DPPA)
 
 ![Status](https://img.shields.io/badge/Status-In%20Development-e67e22?style=flat-square)&nbsp;
 ![Domain](https://img.shields.io/badge/Domain-Privacy%20Engineering-6c3483?style=flat-square)&nbsp;
-![Theme](https://img.shields.io/badge/Theme-Consent%20Architecture-0a3d62?style=flat-square)&nbsp;
-![Impact](https://img.shields.io/badge/Impact-Social-c0392b?style=flat-square)
-
-</div>
+![Theme](https://img.shields.io/badge/Theme-Consent%20Architecture-0d3460?style=flat-square)&nbsp;
+![Impact](https://img.shields.io/badge/Impact-Social-a93226?style=flat-square)
 
 DPPA is a full-stack application designed to protect individuals from unauthorized digital exposure. It implements structured consent workflows, granular privacy controls, and user-controlled data governance — treating privacy as a **first-class system property** rather than a compliance feature.
 
-The project applies software engineering directly to a socially significant problem, and reflects a commitment to building systems that carry ethical accountability alongside technical correctness.
+The project applies software engineering directly to a socially significant problem, reflecting a commitment to building systems that carry ethical accountability alongside technical correctness.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a6090,100:0d3460&height=3&section=header" width="100%"/>
 
-## Current Priorities
+<br/>
 
-- Completing the SLM-based verification pipeline for the undergraduate thesis
-- Implementing the consent enforcement and audit layer in DPPA
-- Deepening applied knowledge in machine learning and natural language processing
-- Contributing to open-source projects at the intersection of AI, reliability, and developer tooling
-- Preparing applications for graduate research programs
+<!-- ════════════════════════════════════════ CURRENT ══ -->
 
----
+## &nbsp;Current Priorities
 
-## Technical Skills
+```text
+▸  Completing the SLM-based verification pipeline for the undergraduate thesis
+▸  Implementing consent enforcement and audit layer in DPPA  
+▸  Deepening applied knowledge in machine learning and NLP
+▸  Contributing to open-source work at the intersection of AI and reliability
+▸  Preparing applications for graduate research programs
+```
+
+<br/>
+
+<!-- ════════════════════════════════════════ TECH STACK ══ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d3460,100:1a6090&height=3&section=header" width="100%"/>
+
+## &nbsp;Technical Skills
 
 <div align="center">
 
-### Languages
+**── Languages ──**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -122,28 +143,28 @@ The project applies software engineering directly to a socially significant prob
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Frontend
+**── Frontend ──**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend & Databases
+**── Backend & Databases ──**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI & Data
+**── AI & Data ──**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Tools & Platforms
+**── Tools & Platforms ──**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -152,9 +173,13 @@ The project applies software engineering directly to a socially significant prob
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a6090,100:0d3460&height=3&section=header" width="100%"/>
 
-## Competitive Programming
+<br/>
+
+<!-- ════════════════════════════════════════ COMPETITIVE PROGRAMMING ══ -->
+
+## &nbsp;Competitive Programming
 
 Algorithmic problem-solving is where I sharpen engineering judgment — practicing correctness under constraint, asymptotic reasoning, and the discipline of producing verifiable solutions. I focus on graph algorithms, dynamic programming, and combinatorial optimization.
 
@@ -167,38 +192,57 @@ Algorithmic problem-solving is where I sharpen engineering judgment — practici
 
 </div>
 
----
+<br/>
 
-## GitHub Activity
+<!-- ════════════════════════════════════════ GITHUB ACTIVITY ══ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d3460,100:1a6090&height=3&section=header" width="100%"/>
 
+## &nbsp;GitHub Activity
+
+<!-- Trophies -->
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=israkkayum&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=7)](https://github.com/israkkayum)
+
+</div>
+
+<br/>
+
+<!-- Stats + Languages -->
 <div align="center">
 
 <a href="https://github.com/israkkayum">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=israkkayum&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&border_radius=10&card_width=420" />
-</a>
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=israkkayum&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&border_radius=12&card_width=420" />
+</a>&nbsp;
 <a href="https://github.com/israkkayum">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israkkayum&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&border_radius=10&card_width=320" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israkkayum&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&border_radius=12&card_width=330" />
 </a>
 
 </div>
 
+<!-- Streak -->
 <div align="center">
 
-<img width="72%" src="https://streak-stats.demolab.com?user=israkkayum&theme=tokyonight&hide_border=true&border_radius=10" />
+<img width="68%" src="https://streak-stats.demolab.com?user=israkkayum&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" />
 
 </div>
 
+<!-- Activity Graph -->
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=israkkayum&theme=tokyo-night&hide_border=true&radius=8" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=israkkayum&theme=tokyo-night&hide_border=true&radius=10&area=true" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a6090,100:0d3460&height=3&section=header" width="100%"/>
 
-## Let's Connect
+<br/>
 
-I am open to substantive conversations about software engineering, AI reliability, privacy systems, and meaningful open-source work. If you are working on something at the intersection of these areas — or looking for a collaborator with both engineering and research grounding — I would be glad to hear from you.
+<!-- ════════════════════════════════════════ CONNECT ══ -->
+
+## &nbsp;Let's Connect
+
+I am open to substantive conversations about software engineering, AI reliability, privacy systems, and meaningful open-source work. If you are building something at the intersection of these areas — or looking for a collaborator with both engineering and research grounding — I would be glad to hear from you.
 
 <div align="center">
 
@@ -214,4 +258,5 @@ I am open to substantive conversations about software engineering, AI reliabilit
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a5276,40:0a3d62,80:0d2137,100:0a0f1e&height=140&section=footer&animation=fadeIn&desc=Based%20in%20Bangladesh%20%E2%80%A2%20Available%20globally%20for%20internships%2C%20research%20collaborations%2C%20and%20graduate%20study%20%E2%80%A2%202025&descAlignY=62&descSize=13&fontColor=e8f4fd" />
+<!-- ════════════════════════════════════════ FOOTER ══ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6090,35:0d3460,70:0a0f2e,100:03001e&height=150&section=footer&animation=fadeIn&desc=Bangladesh%20%E2%80%A2%20Available%20globally%20for%20internships%2C%20research%20collaborations%2C%20and%20graduate%20study%20%E2%80%A2%202025&descAlignY=65&descSize=13&fontColor=e8f4fd" />
