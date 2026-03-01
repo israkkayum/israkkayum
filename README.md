@@ -173,14 +173,18 @@ Algorithmic problem-solving is where I sharpen engineering judgment — practici
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=israkkayum&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&border_radius=10" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israkkayum&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&border_radius=10" />
+<a href="https://github.com/israkkayum">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=israkkayum&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&border_radius=10&card_width=420" />
+</a>
+<a href="https://github.com/israkkayum">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israkkayum&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&border_radius=10&card_width=320" />
+</a>
 
 </div>
 
 <div align="center">
 
-<img width="72%" src="https://github-readme-streak-stats.herokuapp.com?user=israkkayum&theme=tokyonight&hide_border=true&border_radius=10" />
+<img width="72%" src="https://streak-stats.demolab.com?user=israkkayum&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
 
