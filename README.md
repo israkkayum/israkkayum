@@ -202,7 +202,7 @@ Algorithmic problem-solving is where I sharpen engineering judgment — practici
 <!-- Trophies -->
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=israkkayum&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=7)](https://github.com/israkkayum)
+<img src="https://github-profile-trophy.vercel.app/?username=israkkayum&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -211,12 +211,8 @@ Algorithmic problem-solving is where I sharpen engineering judgment — practici
 <!-- Stats + Languages -->
 <div align="center">
 
-<a href="https://github.com/israkkayum">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=israkkayum&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&border_radius=12&card_width=420" />
-</a>&nbsp;
-<a href="https://github.com/israkkayum">
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israkkayum&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&border_radius=12&card_width=330" />
-</a>
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=israkkayum&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&border_radius=12&card_width=420&show=reviews,discussions_started,prs_merged" alt="GitHub Stats" />&nbsp;
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israkkayum&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&border_radius=12&card_width=330" alt="Top Languages" />
 
 </div>
 
@@ -259,4 +255,4 @@ I am open to substantive conversations about software engineering, AI reliabilit
 <br/>
 
 <!-- ════════════════════════════════════════ FOOTER ══ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6090,35:0d3460,70:0a0f2e,100:03001e&height=150&section=footer&animation=fadeIn&desc=Bangladesh%20%E2%80%A2%20Available%20globally%20for%20internships%2C%20research%20collaborations%2C%20and%20graduate%20study%20%E2%80%A2%202025&descAlignY=65&descSize=13&fontColor=e8f4fd" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6090,35:0d3460,70:0a0f2e,100:03001e&height=150&section=footer&animation=fadeIn&desc=Bangladesh%20%E2%80%A2%20Available%20globally%20for%20internships%2C%20research%20collaborations%2C%20and%20graduate%20study%20%E2%80%A2%202026&descAlignY=65&descSize=13&fontColor=e8f4fd" />
