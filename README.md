@@ -2,67 +2,76 @@
 
 # Israk Kayum Chowdhury
 
-**CS Undergraduate · Full-Stack Engineer · AI Reliability Research · Competitive Programmer**
+**Computer Science Undergraduate · Full-Stack Engineer · AI Reliability Researcher · Competitive Programmer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-israk--portfolio.netlify.app-0A66C2?style=flat-square&logo=netlify&logoColor=white)](https://israk-portfolio.netlify.app/)
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1eF285DCvLkPFV1eIrL_RQkjk1yXtjZqW/view)
 [![Email](https://img.shields.io/badge/israk.kayum@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:israk.kayum@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-israkkayum-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/israkkayum)
 
 </div>
 
 ---
 
-I build production-grade full-stack systems and conduct undergraduate research on the reliability of large language models. My engineering work spans the MERN stack; my research asks a harder question — how do we know when to trust AI-generated content? I approach both with the same standard: rigorous, well-reasoned, and built to hold up under scrutiny. Based in Bangladesh. Open to research collaborations, software engineering internships, and graduate study opportunities.
+I design and build reliable software systems across the full stack while conducting research on the trustworthiness of modern AI. My engineering work focuses on production-grade web applications; my research examines how to detect, verify, and mitigate failures in large language models. I approach both domains with the same principle: systems should be correct, robust, and accountable — not merely functional.
+
+Based in Bangladesh. Open to software engineering internships, research collaborations, and graduate study opportunities worldwide.
 
 ---
 
-## Research & Engineering
+## Research Focus
 
-### Undergraduate Thesis — LLM Hallucination Detection & Mitigation
-> *AI Reliability · Small Language Models · Trust Calibration · Verifiable Generation*
+### LLM Hallucination Detection & Mitigation (Undergraduate Thesis)
+> *AI Reliability · Small Language Models · Verification · Trust Calibration*
 
-Large language models fail silently — producing confident, plausible, and factually wrong outputs. My thesis proposes a framework that employs Small Language Models (SLMs) as lightweight verifiers to detect and mitigate these hallucinations post-generation. The work addresses trust calibration, uncertainty estimation, and the conditions under which model outputs can be considered reliable. It draws on recent literature in grounding techniques, retrieval-augmented generation, and output verification, with the goal of making AI systems safer to deploy in high-stakes settings.
+Large language models can generate confident but incorrect information. My thesis proposes a verification pipeline that employs Small Language Models (SLMs) as lightweight post-generation auditors to detect hallucinations and assess reliability. The work explores uncertainty estimation, grounding techniques, and verifiable generation, with the broader goal of enabling safe deployment of AI systems in high-stakes environments.
 
 ---
 
-### Digital Privacy Protection App — DPPA
+### Digital Privacy Protection App (DPPA)
 > *Privacy Engineering · Consent Architecture · User Safety*
 
-A privacy-first application designed to protect individuals from unauthorized digital exposure. DPPA implements structured consent management, granular privacy enforcement, and user-controlled data governance. The project treats privacy not as a compliance checkbox but as a core system property — software engineering applied to a concrete social problem.
+A privacy-first application designed to protect individuals from unauthorized digital exposure. DPPA implements structured consent workflows, granular privacy enforcement, and user-controlled data governance. The project treats privacy as a core system property rather than an afterthought, applying rigorous engineering to a socially significant problem.
 
 ---
 
 ## Current Focus
 
-Developing the SLM-based verification pipeline for my thesis, implementing the consent enforcement layer in DPPA, and building deeper fluency in applied machine learning and NLP.
+- Developing an SLM-based verification pipeline for reliable AI outputs  
+- Implementing consent enforcement mechanisms in DPPA  
+- Advancing applied machine learning and NLP skills  
+- Practicing advanced algorithmic problem-solving  
 
 ---
 
 ## Technical Skills
 
-**Languages**
-
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Frontend**
-
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**Backend & Databases**
-
+### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Tools & Platforms**
+### AI / Data
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -72,7 +81,7 @@ Developing the SLM-based verification pipeline for my thesis, implementing the c
 
 ## Competitive Programming
 
-Consistent practice in algorithmic problem-solving, combinatorics, graph theory, and optimization. Competitive programming is applied rigor — the discipline of writing correct, efficient solutions under constraint.
+Regular practice in algorithms, graph theory, combinatorics, and optimization under constraints — building disciplined problem-solving skills essential for high-performance engineering.
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-israkkayum-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/israkkayum)
 [![LeetCode](https://img.shields.io/badge/LeetCode-user1882cg-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/user1882cg)
@@ -92,7 +101,7 @@ Consistent practice in algorithmic problem-solving, combinatorics, graph theory,
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=israkkayum&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=israkkayum&theme=github-dark&hide_border=true" />
 
 </div>
 
@@ -114,5 +123,5 @@ Consistent practice in algorithmic problem-solving, combinatorics, graph theory,
 ---
 
 <div align="center">
-<sub>Bangladesh · Available for internships, research roles, and graduate study · 2025</sub>
+<sub>Bangladesh · Available for internships, research roles, and graduate study worldwide</sub>
 </div>
