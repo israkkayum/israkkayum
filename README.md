@@ -1,13 +1,12 @@
 <div align="center">
 
-<!-- Animated gradient wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Israk%20Kayum%20Chowdhury&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CS%20Undergraduate%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20AI%20Reliability%20Researcher&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Israk%20Kayum%20Chowdhury&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Building%20reliable%20systems.%20Researching%20trustworthy%20AI.%20Thinking%20globally.&descAlignY=58&descSize=15&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23israk--portfolio-00C9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://israk-portfolio.netlify.app/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-israk--portfolio.netlify.app-00C9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://israk-portfolio.netlify.app/)&nbsp;
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1eF285DCvLkPFV1eIrL_RQkjk1yXtjZqW/view)&nbsp;
 [![Email](https://img.shields.io/badge/Email-israk.kayum@gmail.com-FFD93D?style=for-the-badge&logo=gmail&logoColor=black)](mailto:israk.kayum@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-israkkayum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/israkkayum)
@@ -18,67 +17,75 @@
 
 <div align="center">
 
-<!-- Animated typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Building+reliable+full-stack+systems;Researching+LLM+hallucination+detection;Competitive+programmer+%26+lifelong+learner;Open+to+internships+%26+research+roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9FF&center=true&vCenter=true&width=720&lines=Full-Stack+Engineer+%7C+MERN+Stack;AI+Reliability+Researcher+%7C+LLM+Verification;Privacy+Systems+Engineer+%7C+Consent+Architecture;Competitive+Programmer+%7C+Algorithms+%26+Optimization)](https://git.io/typing-svg)
 
 </div>
 
-<br/>
-
 ---
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### About Me
+## Who I Am
 
-I design and build reliable software systems across the full stack while conducting research on the trustworthiness of modern AI. My engineering work focuses on production-grade web applications; my research examines how to detect, verify, and mitigate failures in large language models.
+I am a Computer Science undergraduate in Bangladesh who operates at the boundary of software engineering and AI research. I build production-grade full-stack systems with the MERN stack, and I conduct research on a question that matters: **when should we trust what a language model says?**
 
-I approach both domains with the same principle: **systems should be correct, robust, and accountable — not merely functional.**
+My work is shaped by a consistent standard — software should be correct, robust, and accountable. I bring that standard equally to engineering and to research.
 
-- 🔬 Researching **LLM hallucination detection** using Small Language Models
-- ⚙️ Full-stack engineer with hands-on **MERN stack** experience
-- 🧠 Interested in **AI reliability, privacy engineering**, and distributed systems
-- 📍 Based in **Bangladesh** — available globally for remote opportunities
-- 🤝 Open to **internships, research collaborations, and graduate study**
+**Current priorities:**
+- Completing my undergraduate thesis on LLM hallucination detection
+- Developing the Digital Privacy Protection App (DPPA)
+- Deepening expertise in applied machine learning and NLP
+- Contributing to open-source projects at the intersection of AI and reliability
 
 <br clear="right"/>
 
 ---
 
-## 🔬 Research & Engineering
+## Focus Areas
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🧪 Undergraduate Thesis
-**LLM Hallucination Detection & Mitigation**
+| AI Reliability & Verification | Privacy Engineering | Full-Stack Systems | Algorithms & Problem Solving |
+|:---:|:---:|:---:|:---:|
+| Hallucination detection, trust calibration, verifiable generation | Consent architecture, data governance, digital rights | MERN stack, REST APIs, scalable web apps | Graph theory, combinatorics, optimization |
 
-![AI](https://img.shields.io/badge/AI%20Reliability-Critical-FF6B6B?style=flat-square)
-![SLMs](https://img.shields.io/badge/Small%20Language%20Models-Research-00C9FF?style=flat-square)
-![Trust](https://img.shields.io/badge/Trust%20Calibration-Active-6BCB77?style=flat-square)
-
-Large language models can generate confident but incorrect information. My thesis proposes a verification pipeline that employs SLMs as lightweight post-generation auditors to detect hallucinations and assess output reliability — targeting uncertainty estimation, grounding, and verifiable generation for safe AI deployment.
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Digital Privacy Protection App
-**DPPA — Privacy Engineering Project**
-
-![Privacy](https://img.shields.io/badge/Privacy%20Engineering-Core-9B59B6?style=flat-square)
-![Consent](https://img.shields.io/badge/Consent%20Architecture-Active-FF9F43?style=flat-square)
-![Safety](https://img.shields.io/badge/User%20Safety-Priority-FF6B6B?style=flat-square)
-
-A privacy-first application protecting individuals from unauthorized digital exposure. DPPA implements structured consent workflows, granular privacy enforcement, and user-controlled data governance — treating privacy as a core system property, not an afterthought.
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## Research & Engineering
+
+### Undergraduate Thesis — LLM Hallucination Detection & Mitigation
+
+<div>
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-00C9FF?style=flat-square)&nbsp;
+![Domain](https://img.shields.io/badge/Domain-AI%20Reliability-FF6B6B?style=flat-square)&nbsp;
+![Method](https://img.shields.io/badge/Method-Small%20Language%20Models-6BCB77?style=flat-square)&nbsp;
+![Theme](https://img.shields.io/badge/Theme-Trust%20Calibration-FFD93D?style=flat-square&logoColor=black)
+
+</div>
+
+Large language models produce fluent, confident, and sometimes factually incorrect outputs — a failure mode with serious consequences for high-stakes deployment. My thesis proposes a verification framework in which Small Language Models (SLMs) serve as lightweight post-generation auditors. The framework addresses three interconnected challenges: uncertainty estimation, output grounding, and verifiable generation. The goal is not to eliminate LLMs from the pipeline, but to make their outputs inspectable and trustworthy.
+
+---
+
+### Digital Privacy Protection App (DPPA)
+
+<div>
+
+![Status](https://img.shields.io/badge/Status-In%20Development-FF9F43?style=flat-square)&nbsp;
+![Domain](https://img.shields.io/badge/Domain-Privacy%20Engineering-9B59B6?style=flat-square)&nbsp;
+![Theme](https://img.shields.io/badge/Theme-Consent%20Architecture-00C9FF?style=flat-square)&nbsp;
+![Impact](https://img.shields.io/badge/Impact-Social-FF6B6B?style=flat-square)
+
+</div>
+
+DPPA is a privacy-first application that protects individuals from unauthorized digital exposure. It implements structured consent management, granular privacy enforcement, and user-controlled data governance. The project treats privacy as a first-class system property — not a compliance feature — and reflects a broader commitment to engineering software that carries social accountability.
+
+---
+
+## Technical Skills
 
 <div align="center">
 
@@ -117,13 +124,11 @@ A privacy-first application protecting individuals from unauthorized digital exp
 
 ---
 
-## 🏆 Competitive Programming
+## Competitive Programming
+
+Consistent practice in algorithms, graph theory, combinatorics, and optimization — treating each problem as an exercise in correctness and efficiency under constraint. I view competitive programming as the foundation of disciplined engineering judgment.
 
 <div align="center">
-
-Regular practice in algorithms, graph theory, combinatorics, and optimization — building disciplined problem-solving skills essential for high-performance engineering.
-
-<br/>
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-israkkayum-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/israkkayum)&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-user1882cg-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/user1882cg)&nbsp;
@@ -134,7 +139,7 @@ Regular practice in algorithms, graph theory, combinatorics, and optimization �
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -157,7 +162,9 @@ Regular practice in algorithms, graph theory, combinatorics, and optimization �
 
 ---
 
-## 🌐 Connect
+## Connect
+
+*I welcome thoughtful conversations about software engineering, AI research, privacy systems, and open-source collaboration.*
 
 <div align="center">
 
@@ -171,11 +178,6 @@ Regular practice in algorithms, graph theory, combinatorics, and optimization �
 
 </div>
 
----
+<br/>
 
-<!-- Animated wave footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" />
-
-<div align="center">
-<sub>📍 Bangladesh &nbsp;·&nbsp; Available for internships, research roles, and graduate study worldwide &nbsp;·&nbsp; 2025</sub>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer&animation=fadeIn&desc=Bangladesh%20%C2%B7%20Available%20globally%20for%20internships%2C%20research%20roles%2C%20and%20graduate%20study%20%C2%B7%202025&descAlignY=65&descSize=13&fontColor=ffffff" />
